@@ -11517,12 +11517,12 @@ code {
   .nav-tabs.nav-tabs-line.nav-tabs-line-brand.nav.nav-tabs .nav-link:hover, .nav-tabs.nav-tabs-line.nav-tabs-line-brand.nav.nav-tabs .nav-link.active,
   .nav-tabs.nav-tabs-line.nav-tabs-line-brand a.nav-link:hover,
   .nav-tabs.nav-tabs-line.nav-tabs-line-brand a.nav-link.active {
-    color: #2c77f4;
-    border-bottom: 1px solid #2c77f4; }
+    color: #FFB826;
+    border-bottom: 1px solid #FFB826; }
     .nav-tabs.nav-tabs-line.nav-tabs-line-brand.nav.nav-tabs .nav-link:hover > i, .nav-tabs.nav-tabs-line.nav-tabs-line-brand.nav.nav-tabs .nav-link.active > i,
     .nav-tabs.nav-tabs-line.nav-tabs-line-brand a.nav-link:hover > i,
     .nav-tabs.nav-tabs-line.nav-tabs-line-brand a.nav-link.active > i {
-      color: #4487f5; }
+      color: #ffb822; }
   .nav-tabs.nav-tabs-line.nav-tabs-line-brand.nav-tabs-line-2x, .nav-tabs.nav-tabs-line.nav-tabs-line-brand.nav-tabs-line-3x {
     border-bottom-color: rgba(44, 119, 244, 0.1); }
   .nav-tabs.nav-tabs-line.nav-tabs-line-light.nav.nav-tabs .nav-link:hover,
@@ -20310,7 +20310,7 @@ strong {
   font-weight: bold; }
 
 .kt-font-brand {
-  color: #2c77f4 !important; }
+  color: #eca713 !important; }
 
 .kt-font-hover-brand:hover {
   color: #0948b1; }
@@ -20319,7 +20319,7 @@ strong {
   color: #ffffff !important; }
 
 .kt-bg-brand {
-  background-color: #2c77f4 !important; }
+  background-color: #ffb822cc !important; }
 
 .kt-bg-fill-brand {
   background-color: #2c77f4 !important;
@@ -22919,15 +22919,15 @@ strong {
     z-index: 101;
     background: #fff; }
   .kt-portlet.kt-portlet--skin-solid .kt-portlet__head .kt-portlet__head-label .kt-portlet__head-title {
-    color: #fff; }
+    color: #282a3c; }
     .kt-portlet.kt-portlet--skin-solid .kt-portlet__head .kt-portlet__head-label .kt-portlet__head-title small {
       color: rgba(255, 255, 255, 0.8); }
   .kt-portlet.kt-portlet--skin-solid .kt-portlet__head .kt-portlet__head-label .kt-portlet__head-icon {
-    color: rgba(255, 255, 255, 0.8); }
+    color: rgba(40, 42, 60, 1); }
   .kt-portlet.kt-portlet--skin-solid .kt-portlet__head:not(.kt-portlet__head--noborder) {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2); }
+    border-bottom: 1px solid rgba(25, 25, 25, 0.8); }
   .kt-portlet.kt-portlet--skin-solid .kt-portlet__body {
-    color: #fff; }
+    color: #282a3c; }
   .kt-portlet .kt-portlet__space-x {
     padding-left: 25px !important;
     padding-right: 25px !important; }

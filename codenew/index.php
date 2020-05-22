@@ -49,10 +49,18 @@ foreach($files as $file){
     <!-- end:: Content Head -->
 
     <nav aria-label="breadcrumb">
+   <div class="row">
+
+<div class="col-lg-10">
         <ol class="breadcrumb">
             <li class="breadcrumb-item active" aria-current="page">Dashboard</li>
         </ol>
+</div>
+<div class="col-lg-2">
+        <a class="btn btn-warning btn-lg" href="change_weight.php"><i class="fas fa-weight"></i>Change Weight</a>
+        </div>
     </nav>
+
 
     <!-- begin:: Content -->
     <div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid">

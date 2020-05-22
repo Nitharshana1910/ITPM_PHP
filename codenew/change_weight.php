@@ -4,33 +4,28 @@
 
 <div class="kt-content  kt-grid__item kt-grid__item--fluid kt-grid kt-grid--hor" id="kt_content">
 
-						<!-- begin:: Content Head -->
-						<div class="kt-subheader  kt-grid__item" id="kt_subheader">
-							<div class="kt-container  kt-container--fluid ">
-								<div class="kt-subheader__main">
-									<h3 class="kt-subheader__title">Change Default Weights</h3>
-									<span class="kt-subheader__separator kt-subheader__separator--v"></span>
+    <!-- begin:: Content Head -->
+    <div class="kt-subheader  kt-grid__item" id="kt_subheader">
+        <div class="kt-container  kt-container--fluid " style="background-color: #9E9E9E;">
+            <div class="kt-subheader__main">
+                <img src="assets/image/logo.png" alt="" style="width: 300px;">
+                <?php include 'include/nav.php'; ?>
+
+            </div>
+            <div class="kt-subheader__toolbar">
 
 
-									<div class="kt-input-icon kt-input-icon--right kt-subheader__search kt-hidden">
-										<input type="text" class="form-control" placeholder="Search order..." id="generalSearch">
-										<span class="kt-input-icon__icon kt-input-icon__icon--right">
-											<span><i class="flaticon2-search-1"></i></span>
-										</span>
-									</div>
-								</div>
-                                <div class="kt-subheader__toolbar">
+            </div>
+        </div>
+    </div>
 
-
-                                    <a href="index.php" class="btn btn-label-warning btn-bold btn-sm btn-icon-h kt-margin-l-10">
-                                        Add New
-                                    </a>
-
-                                </div>
-							</div>
-						</div>
-
-						<!-- end:: Content Head -->
+    <!-- end:: Content Head -->
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="index.php">Dashboard</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Change Weights</li>
+        </ol>
+    </nav>
 
 						<!-- begin:: Content -->
 						<div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid">
@@ -137,8 +132,10 @@
                     </div>
 
                     <br><hr>
-                                <button type="submit" class="btn btn-brand">Save</button>
-                                <button type="submit" class="btn btn-secondary">Reset to Defaults</button>
+                    <center>
+                                <button type="submit" class="btn btn-warning btn-lg">Save</button>
+                                <button type="submit" class="btn btn-secondary btn-lg">Reset to Defaults</button>
+                    </center>
 
 
 
@@ -190,8 +187,10 @@
                     </div>
 
                     <br><hr>
-                    <button type="submit" class="btn btn-brand">Save</button>
-                    <button type="submit" class="btn btn-secondary">Reset to Defaults</button>
+                    <center>
+                                <button type="submit" class="btn btn-warning btn-lg">Save</button>
+                                <button type="submit" class="btn btn-secondary btn-lg">Reset to Defaults</button>
+                    </center>
                 </div>
 
 
@@ -244,8 +243,10 @@
                     </div>
 
                     <br><hr>
-                    <button type="submit" class="btn btn-brand">Save</button>
-                    <button type="submit" class="btn btn-secondary">Reset to Defaults</button>
+                    <center>
+                                <button type="submit" class="btn btn-warnin btn-lg">Save</button>
+                                <button type="submit" class="btn btn-secondary btn-lg">Reset to Defaults</button>
+                    </center>
                 </div>
 
 
@@ -301,8 +302,10 @@
                     </div>
 
                     <br><hr>
-                    <button type="submit" class="btn btn-brand">Save</button>
-                    <button type="submit" class="btn btn-secondary">Reset to Defaults</button>
+                    <center>
+                                <button type="submit" class="btn btn-warning btn-lg">Save</button>
+                                <button type="submit" class="btn btn-secondary btn-lg">Reset to Defaults</button>
+                    </center>
                 </div>
 
 
@@ -410,8 +413,10 @@
                     </div>
 
                     <br><hr>
-                    <button type="submit" class="btn btn-brand">Save</button>
-                    <button type="submit" class="btn btn-secondary">Reset to Defaults</button>
+                    <center>
+                                <button type="submit" class="btn btn-warning btn-lg">Save</button>
+                                <button type="submit" class="btn btn-secondary btn-lg">Reset to Defaults</button>
+                    </center>
                 </div>
 
 
@@ -463,8 +468,10 @@
                     </div>
 
                     <br><hr>
-                    <button type="submit" class="btn btn-brand">Save</button>
-                    <button type="submit" class="btn btn-secondary">Reset to Defaults</button>
+                    <center>
+                                <button type="submit" class="btn btn-warning btn-lg">Save</button>
+                                <button type="submit" class="btn btn-secondary btn-lg">Reset to Defaults</button>
+                    </center>
                 </div>
 
 
